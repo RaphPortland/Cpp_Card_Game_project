@@ -9,6 +9,13 @@
 /* Begin PBXBuildFile section */
 		6323F3FD1FB5D3FC00D40386 /* fctsupp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6323F3FB1FB5D3FC00D40386 /* fctsupp.cpp */; };
 		6365D1621FB0BC50007AFFD4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6365D1611FB0BC50007AFFD4 /* main.cpp */; };
+		638613181FB8553300367F39 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 638613161FB8553300367F39 /* Player.cpp */; };
+		6386131B1FB85B0100367F39 /* Card.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 638613191FB85B0100367F39 /* Card.cpp */; };
+		639005BE1FD39A8B00D80080 /* Specialcard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 639005BC1FD39A8B00D80080 /* Specialcard.cpp */; };
+		63A7CAA51FB62ADE00F98AE7 /* Board.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63A7CAA31FB62ADE00F98AE7 /* Board.cpp */; };
+		63AF985C1FB8CA5B00C1DFD0 /* Energycard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63AF985A1FB8CA5B00C1DFD0 /* Energycard.cpp */; };
+		63AF985F1FB8D30400C1DFD0 /* Wickedcard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63AF985D1FB8D30400C1DFD0 /* Wickedcard.cpp */; };
+		63CD2CC91FCD66DB003A4FCC /* Attaque_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63CD2CC71FCD66DB003A4FCC /* Attaque_1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +35,20 @@
 		6323F3FC1FB5D3FC00D40386 /* fctsupp.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = fctsupp.hpp; sourceTree = "<group>"; };
 		6365D15E1FB0BC50007AFFD4 /* ProjetIng2sem1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjetIng2sem1; sourceTree = BUILT_PRODUCTS_DIR; };
 		6365D1611FB0BC50007AFFD4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		638613161FB8553300367F39 /* Player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Player.cpp; sourceTree = "<group>"; };
+		638613171FB8553300367F39 /* Player.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Player.hpp; sourceTree = "<group>"; };
+		638613191FB85B0100367F39 /* Card.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Card.cpp; sourceTree = "<group>"; };
+		6386131A1FB85B0100367F39 /* Card.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Card.hpp; sourceTree = "<group>"; };
+		639005BC1FD39A8B00D80080 /* Specialcard.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Specialcard.cpp; sourceTree = "<group>"; };
+		639005BD1FD39A8B00D80080 /* Specialcard.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Specialcard.hpp; sourceTree = "<group>"; };
+		63A7CAA31FB62ADE00F98AE7 /* Board.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Board.cpp; sourceTree = "<group>"; };
+		63A7CAA41FB62ADE00F98AE7 /* Board.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Board.hpp; sourceTree = "<group>"; };
+		63AF985A1FB8CA5B00C1DFD0 /* Energycard.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Energycard.cpp; sourceTree = "<group>"; };
+		63AF985B1FB8CA5B00C1DFD0 /* Energycard.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Energycard.hpp; sourceTree = "<group>"; };
+		63AF985D1FB8D30400C1DFD0 /* Wickedcard.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Wickedcard.cpp; sourceTree = "<group>"; };
+		63AF985E1FB8D30400C1DFD0 /* Wickedcard.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Wickedcard.hpp; sourceTree = "<group>"; };
+		63CD2CC71FCD66DB003A4FCC /* Attaque_1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Attaque_1.cpp; sourceTree = "<group>"; };
+		63CD2CC81FCD66DB003A4FCC /* Attaque_1.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Attaque_1.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +82,20 @@
 			isa = PBXGroup;
 			children = (
 				6365D1611FB0BC50007AFFD4 /* main.cpp */,
+				638613191FB85B0100367F39 /* Card.cpp */,
+				6386131A1FB85B0100367F39 /* Card.hpp */,
+				639005BC1FD39A8B00D80080 /* Specialcard.cpp */,
+				639005BD1FD39A8B00D80080 /* Specialcard.hpp */,
+				63AF985A1FB8CA5B00C1DFD0 /* Energycard.cpp */,
+				63AF985B1FB8CA5B00C1DFD0 /* Energycard.hpp */,
+				63AF985D1FB8D30400C1DFD0 /* Wickedcard.cpp */,
+				63AF985E1FB8D30400C1DFD0 /* Wickedcard.hpp */,
+				63CD2CC71FCD66DB003A4FCC /* Attaque_1.cpp */,
+				63CD2CC81FCD66DB003A4FCC /* Attaque_1.hpp */,
+				638613161FB8553300367F39 /* Player.cpp */,
+				638613171FB8553300367F39 /* Player.hpp */,
+				63A7CAA41FB62ADE00F98AE7 /* Board.hpp */,
+				63A7CAA31FB62ADE00F98AE7 /* Board.cpp */,
 				6323F3FB1FB5D3FC00D40386 /* fctsupp.cpp */,
 				6323F3FC1FB5D3FC00D40386 /* fctsupp.hpp */,
 			);
@@ -124,8 +159,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				638613181FB8553300367F39 /* Player.cpp in Sources */,
+				63CD2CC91FCD66DB003A4FCC /* Attaque_1.cpp in Sources */,
+				63AF985F1FB8D30400C1DFD0 /* Wickedcard.cpp in Sources */,
+				63A7CAA51FB62ADE00F98AE7 /* Board.cpp in Sources */,
 				6365D1621FB0BC50007AFFD4 /* main.cpp in Sources */,
+				63AF985C1FB8CA5B00C1DFD0 /* Energycard.cpp in Sources */,
 				6323F3FD1FB5D3FC00D40386 /* fctsupp.cpp in Sources */,
+				6386131B1FB85B0100367F39 /* Card.cpp in Sources */,
+				639005BE1FD39A8B00D80080 /* Specialcard.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
