@@ -1,5 +1,9 @@
 Raphael
 EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Money Economie 100
 WickedCard 450 Merkel 100 Trente Anton
 WickedCard 70 Poutine 300 Hama ASL
 WickedCard 200 May 200 Monmouth Clifton
@@ -13,10 +17,311 @@ EnergyCard Worker Urbanisme 300
 EnergyCard Gold Economie 400
 EnergyCard Strategie Politique 125
 SpecialCard LoiMacron 0 0 120 200
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
 SpecialCard SacrificeMilitaire 0 0 200 300
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
 SpecialCard AttaqueMilitaire 0 1 200 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+SpecialCard MaisonBlanche 1 0 200 400
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+SpecialCard CarteMao 0 1 100 150
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+SpecialCard Chancelier 0 1 500 150
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+SpecialCard SacrificeMilitaire 0 0 200 300
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+SpecialCard AttaqueMilitaire 0 1 200 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+SpecialCard MaisonBlanche 1 0 200 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+SpecialCard MaisonBlanche 1 0 200 400
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+SpecialCard CarteMao 0 1 100 150
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+SpecialCard Chancelier 0 1 500 150
+EnergyCard Money Economie 100
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+EnergyCard Money Economie 100
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Strategie Politique 125
+EnergyCard Money Economie 100
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anto
+SpecialCard SacrificeMilitaire 0 0 200 300
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard AttaqueMilitaire 0 1 200 400
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+EnergyCard Gold Economie 400
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Strategie Politique 125
+SpecialCard MaisonBlanche 1 0 200 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 70 Poutine 300 Hama ASL
+SpecialCard CarteMao 0 1 100 150
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+SpecialCard Chancelier 0 1 500 150
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anton
+SpecialCard SacrificeMilitaire 0 0 200 300
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+SpecialCard AttaqueMilitaire 0 1 200 400
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
 SpecialCard MaisonBlanche 1 0 200 400
 SpecialCard CarteMao 0 1 100 150
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
 SpecialCard Chancelier 0 1 500 150
 EnergyCard Money Economie 100
 WickedCard 450 Merkel 100 Trente Anton
@@ -33,10 +338,6 @@ EnergyCard Gold Economie 400
 EnergyCard Strategie Politique 125
 SpecialCard LoiMacron 0 0 120 200
 SpecialCard SacrificeMilitaire 0 0 200 300
-SpecialCard AttaqueMilitaire 0 1 200 400
-SpecialCard MaisonBlanche 1 0 200 400
-SpecialCard CarteMao 0 1 100 150
-SpecialCard Chancelier 0 1 500 150
 EnergyCard Money Economie 100
 WickedCard 450 Merkel 100 Trente Anton
 WickedCard 70 Poutine 300 Hama ASL
@@ -51,11 +352,6 @@ EnergyCard Worker Urbanisme 300
 EnergyCard Gold Economie 400
 EnergyCard Strategie Politique 125
 SpecialCard LoiMacron 0 0 120 200
-SpecialCard SacrificeMilitaire 0 0 200 300
-SpecialCard AttaqueMilitaire 0 1 200 400
-SpecialCard MaisonBlanche 1 0 200 400
-SpecialCard CarteMao 0 1 100 150
-SpecialCard Chancelier 0 1 500 150
 EnergyCard Money Economie 100
 WickedCard 450 Merkel 100 Trente Anton
 WickedCard 70 Poutine 300 Hama ASL
@@ -70,11 +366,6 @@ EnergyCard Worker Urbanisme 300
 EnergyCard Gold Economie 400
 EnergyCard Strategie Politique 125
 SpecialCard LoiMacron 0 0 120 200
-SpecialCard SacrificeMilitaire 0 0 200 300
-SpecialCard AttaqueMilitaire 0 1 200 400
-SpecialCard MaisonBlanche 1 0 200 400
-SpecialCard CarteMao 0 1 100 150
-SpecialCard Chancelier 0 1 500 150
 EnergyCard Money Economie 100
 WickedCard 450 Merkel 100 Trente Anton
 WickedCard 70 Poutine 300 Hama ASL
@@ -89,11 +380,6 @@ EnergyCard Worker Urbanisme 300
 EnergyCard Gold Economie 400
 EnergyCard Strategie Politique 125
 SpecialCard LoiMacron 0 0 120 200
-SpecialCard SacrificeMilitaire 0 0 200 300
-SpecialCard AttaqueMilitaire 0 1 200 400
-SpecialCard MaisonBlanche 1 0 200 400
-SpecialCard CarteMao 0 1 100 150
-SpecialCard Chancelier 0 1 500 150
 EnergyCard Money Economie 100
 WickedCard 450 Merkel 100 Trente Anton
 WickedCard 70 Poutine 300 Hama ASL
@@ -108,10 +394,191 @@ EnergyCard Worker Urbanisme 300
 EnergyCard Gold Economie 400
 EnergyCard Strategie Politique 125
 SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+SpecialCard AttaqueMilitaire 0 1 200 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+SpecialCard MaisonBlanche 1 0 200 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+EnergyCard Gold Economie 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+SpecialCard CarteMao 0 1 100 150
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+SpecialCard Chancelier 0 1 500 150
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 70 Poutine 300 Hama ASL
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 70 Poutine 300 Hama ASL
 SpecialCard SacrificeMilitaire 0 0 200 300
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
 SpecialCard AttaqueMilitaire 0 1 200 400
 SpecialCard MaisonBlanche 1 0 200 400
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
 SpecialCard CarteMao 0 1 100 150
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
 SpecialCard Chancelier 0 1 500 150
 EnergyCard Money Economie 100
 WickedCard 450 Merkel 100 Trente Anton
@@ -126,12 +593,60 @@ WickedCard 400 Macron 200 Heracles Providence
 EnergyCard Worker Urbanisme 300
 EnergyCard Gold Economie 400
 EnergyCard Strategie Politique 125
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 70 Poutine 300 Hama ASL
 SpecialCard LoiMacron 0 0 120 200
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 70 Poutine 300 Hama ASL
 SpecialCard SacrificeMilitaire 0 0 200 300
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
 SpecialCard AttaqueMilitaire 0 1 200 400
 SpecialCard MaisonBlanche 1 0 200 400
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 70 Poutine 300 Hama ASL
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
 SpecialCard CarteMao 0 1 100 150
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anton
 SpecialCard Chancelier 0 1 500 150
+EnergyCard Money Economie 100
+WickedCard 450 Merkel 100 Trente Anton
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 450 Merkel 100 Trente Anton
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Attack Militaire 400
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+EnergyCard Worker Urbanisme 300
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+SpecialCard LoiMacron 0 0 120 200
 EnergyCard Money Economie 100
 WickedCard 450 Merkel 100 Trente Anton
 WickedCard 70 Poutine 300 Hama ASL
@@ -139,3 +654,21 @@ WickedCard 200 May 200 Monmouth Clifton
 EnergyCard Airforce Militaire 400
 EnergyCard Attack Militaire 400
 WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Attack Militaire 600
+WickedCard 300 Trump 150 Deadlight EagleClaw
+WickedCard 400 Macron 200 Heracles Providence
+WickedCard 70 Poutine 300 Hama ASL
+WickedCard 200 May 200 Monmouth Clifton
+EnergyCard Airforce Militaire 400
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anto
+EnergyCard Attack Militaire 400
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 350 Jinping 600 Changsha Kuningtou
+EnergyCard Money Economie 100
+EnergyCard Gold Economie 400
+EnergyCard Strategie Politique 125
+WickedCard 450 Merkel 100 Trente Anto
